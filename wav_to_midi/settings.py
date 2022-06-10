@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-tod#+xkw8%aggb*vs8h9ck1om3jh=romb$ar=z**07*=75^+qc
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://wavtomidi-77.herokuapp.com/']
+ALLOWED_HOSTS = ['wavtomidi-77.herokuapp.com', 'https://wavtomidi-77.herokuapp.com/']
 
 
 # Application definition
