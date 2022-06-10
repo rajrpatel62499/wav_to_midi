@@ -2,3 +2,4 @@ librosa
 numpy
 midiutil
 gunicorn
+django
