@@ -1,1 +1,1 @@
-web: gunicorn myproject.wsgi
+web: gunicorn wav_to_midi.wsgi
