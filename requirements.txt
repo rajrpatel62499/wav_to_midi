@@ -3,4 +3,3 @@ numpy
 midiutil
 gunicorn
 django
-libsndfile1
